@@ -1,4 +1,4 @@
-package com.xiaoze.provider;
+package com.springboot.provider;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
